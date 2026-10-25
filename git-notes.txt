@@ -1,0 +1,25 @@
+Git Notes
+
+1. git clone <url>
+   - Repository download
+
+2. git status
+   - Current status check
+
+3. git add .
+   - Staging area
+
+4. git commit -m "message"
+   - Save changes
+
+5. git push
+   - Upload to GitHub
+
+6. git pull
+   - Download latest changes
+
+Git Flow:
+Create File
+-> git add .
+-> git commit
+-> git push
